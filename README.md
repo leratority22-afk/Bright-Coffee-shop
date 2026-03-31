@@ -1,3 +1,3 @@
 # Bright-Coffee-shop
 
-This reporetory is the result for the Bright Coffee Shop presentaion
+This repository is the result for the Bright Coffee Shop presentaion
